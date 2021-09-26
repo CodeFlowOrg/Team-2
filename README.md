@@ -18,12 +18,46 @@
 
 </br>
 
+<h2> Project Idea:bulb:</h2>
+
+<h4> Idea: Opportunities and Student programs notification portal </h4>(To view the points below, click on the drop down arrow)
+</br>
+
+<details>
+  <summary> Pages </summary>
+  <pre><p align="center">
+	<img src="https://github.com/CodeFlow201/Team-2/blob/master/Images/Screenshot%20from%202021-09-26%2023-24-52.png?raw=true" width=650 height=300 alt="Banner">
+</p></pre>
+</details>
+
+<details>
+  <summary> Features </summary>
+  <pre><p align="center">
+	<img src="https://github.com/CodeFlow201/Team-2/blob/master/Images/Screenshot%20from%202021-09-26%2023-25-52.png?raw=true" width=650 height=300 alt="Banner">
+</p></pre>
+</details>
+
+<details>
+  <summary> Tech Stacks </summary>
+  <pre><p align="center">
+	<img src="https://github.com/CodeFlow201/Team-2/blob/master/Images/Screenshot%20from%202021-09-26%2023-26-21.png?raw=true" width=650 height=300 alt="Banner">
+</p></pre>
+</details>
+
+<details>
+  <summary> Scopes </summary>
+  <pre><p align="center">
+	<img src="https://github.com/CodeFlow201/Team-2/blob/master/Images/Screenshot%20from%202021-09-26%2023-26-30.png?raw=true" width=650 height=300 alt="Banner">
+</p></pre>
+</details>
+
+To view the full Mindmap, [click here](https://miro.com/welcomeonboard/cEdzbHFTVzRkTEFNelJxcDlVOXFEM25BOWx3Y1g4WHZJWEl3eElLTjZWbEdPTERzc3dmaHNzTnBqYkhTQzZqU3wzMDc0NDU3MzQ4NTYwMjQ3MTU2?invite_link_id=742338489127) </br>
+
 <h2 align="center"> Mentor :technologist: </h2>
 <h3>:man_technologist: Rose Kamal Love <a href="https://www.linkedin.com/in/rose-kamal-love-1146141b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rose Kamal Love" height="20" width="40" /></a> </h3>
 
 <h2 align="center"> Team Members :technologist: </h2>
 <h3>:man_technologist: Barun Debnath <a href="https://www.linkedin.com/in/barundebnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Barun Debnath" height="20" width="40" /></a> </h3> 
 <h3>:man_technologist: Kanchi Pardhi <a href="https://www.linkedin.com/in/kanchi-pardhi-722a92205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kanchi Pardhi" height="20" width="40" /></a> </h3> 
-<h3>:man_technologist: G Sreelakshmi <a href="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="G Sreelakshmi" height="20" width="40" /></a> </h3> 
 <h3>:man_technologist: Ananya <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ananya" height="20" width="40" /></a> </h3> 
 <h3>:man_technologist: Sumit Saha <a href="https://www.linkedin.com/in/sumitsaha74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sumit Saha" height="20" width="40" /></a> </h3> 
