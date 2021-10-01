@@ -55,7 +55,7 @@
 To view the full Mindmap, [click here](https://miro.com/welcomeonboard/cEdzbHFTVzRkTEFNelJxcDlVOXFEM25BOWx3Y1g4WHZJWEl3eElLTjZWbEdPTERzc3dmaHNzTnBqYkhTQzZqU3wzMDc0NDU3MzQ4NTYwMjQ3MTU2?invite_link_id=742338489127) </br>
 
 <h2 align="center"> Mentor :technologist: </h2>
-<h3>:man_technologist: Rose Kamal Love <a href="https://www.linkedin.com/in/rose-kamal-love-1146141b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rose Kamal Love" height="20" width="40" /></a> </h3>
+<h3>:man_technologist: Rose Kamal Love <a href="https://www.linkedin.com/in/rose-kamal-love-1146141b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rose Kamal Love" height="20" width="40" /></a> <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Rose Kamal Love" height="20" width="40" /> </a> </h3>
 
 <h2 align="center"> Team Members :technologist: </h2>
 <h3>:man_technologist: Barun Debnath <a href="https://www.linkedin.com/in/barundebnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Barun Debnath" height="20" width="40" /></a> <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Barun" height="20" width="40" /> </a></h3> 
