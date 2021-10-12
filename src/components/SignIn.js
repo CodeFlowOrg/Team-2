@@ -17,7 +17,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 
 const theme = createTheme();
 
-export default function SignIn() {
+export default function App() {
   const [err, setErr] = useState(false);
   const [errMsg, setErrMsg] = useState("");
 
@@ -25,16 +25,16 @@ export default function SignIn() {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
     // eslint-disable-next-line no-console
-
+    console.log({
+      email: data.get("email"),
+      password: data.get("password")
+    });
     // handle the case when email or password field is left blank
     if (!data.get("email") || !data.get("password")) {
       setErr(true);
       setErrMsg("Enter both Email id and password");
     } else {
-      console.log({
-        email: data.get("email"),
-        password: data.get("password")
-      });
+      // to be completed
     }
   };
 
@@ -65,25 +65,54 @@ export default function SignIn() {
             noValidate
             sx={{ mt: 1 }}
           >
-            <TextField
-              margin="normal"
-              required
-              fullWidth
-              id="email"
-              label="Email Address"
-              name="email"
-              autoComplete="email"
-              autoFocus
-            />
-            <TextField
-              margin="normal"
-              required
-              fullWidth
-              name="password"
-              label="Password"
-              type="password"
-              id="password"
-            />
+            {err ? (
+              <>
+                <TextField
+                  error
+                  margin="normal"
+                  required
+                  fullWidth
+                  id="email"
+                  label="Email Address"
+                  name="email"
+                  autoComplete="email"
+                  autoFocus
+                />
+                <TextField
+                  error
+                  margin="normal"
+                  required
+                  fullWidth
+                  name="password"
+                  label="Password"
+                  type="password"
+                  id="password"
+                />
+              </>
+            ) : (
+              <>
+                <TextField
+                  margin="normal"
+                  required
+                  fullWidth
+                  id="email"
+                  label="Email Address"
+                  name="email"
+                  autoComplete="email"
+                  autoFocus
+                />
+                <TextField
+                  margin="normal"
+                  required
+                  fullWidth
+                  name="password"
+                  label="Password"
+                  type="password"
+                  id="password"
+                />
+              </>
+            )}
+
             <FormControlLabel
               control={<Checkbox value="remember" color="primary" />}
               label="Remember me"
@@ -119,3 +148,4 @@ export default function SignIn() {
     </ThemeProvider>
   );
 }
+
