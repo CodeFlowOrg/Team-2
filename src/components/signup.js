@@ -45,7 +45,7 @@ export default function App() {
           }}
         >
           <img
-            src="images/Fill out-pana.png"
+            src="images/signup_illustration.png"
             alt="sign_up_illustration"
             height="200"
             width="200"
